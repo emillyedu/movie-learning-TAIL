@@ -118,13 +118,6 @@ select{
     padding: 0.8rem 1rem;
 }
 
-.texto-introducao{
-    line-height: 1.2;
-    font-size: 2rem;
-    margin-bottom: 1rem;
-    text-align: justify;
-}
-
 /*------------------ CONTATOS ------------------*/
 .main{
     margin: 15rem 0 10rem 0;
@@ -220,6 +213,13 @@ select{
 
 main {
     margin: 15rem 20rem;
+}
+
+.texto-introducao{
+    line-height: 1.2;
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    text-align: justify;
 }
 
 .section-introducao > h1 {
