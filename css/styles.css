@@ -350,10 +350,10 @@ button:hover {
     margin-top: 1rem !important;
     height: 19rem !important;
 }
-.title-doc{
+.title-doc h1{
     text-shadow: 4px 4px 0px rgba(0, 0, 0, 0.1);
-    font-size: 1.7rem;
-    font-weight: 700;
+    font-size: 2.2rem;
+    font-weight: bold !important;
     margin: 5rem 0 3rem 0;
 }
 .github{
