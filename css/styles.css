@@ -77,7 +77,7 @@ select{
 
 /*------------------HEADER------------------*/
 .header {
-    padding: 0.7rem 0;
+    padding: 0.9rem 0;
     background-color:#000000 !important ;
     position: fixed;
     top: 0;
@@ -121,7 +121,7 @@ select{
 }
 
 .logo img{
-    width: 8rem;
+    width: 6.8rem;
     border-radius: 100%;
 }
 
@@ -138,24 +138,16 @@ select{
     padding: 7rem 0 0 0;
 }
 
-/* .ultima{
-    background-color: rgb(230, 229, 229) !important;
-    box-shadow: 0 !important;
-    border-style: none !important;
-    border-color: rgb(230, 229, 229) !important;
-    cursor:auto !important;
-} */
-
 .box:nth-child(1) {
     background-color: #ffffff;
     box-shadow: 0 0.5rem 0.5rem rgba(0, 0, 0.5, 0.2);
-    cursor: pointer;
+    /* cursor: pointer; */
 }
 
 .box:nth-child(2) {
     background-color: #ffffff;
     box-shadow: 0 0.5rem 0.5rem rgba(0, 0, 0.5, 0.2);
-    cursor: pointer;
+    /* cursor: pointer; */
 }
 
 .box:hover {
@@ -401,6 +393,8 @@ button:hover {
 .github a:hover{
     color:#6175db;
 }
+
+
 /*------------------FOOTER------------------*/
 .section-footer {
     background-color: rgb(27, 26, 26);
